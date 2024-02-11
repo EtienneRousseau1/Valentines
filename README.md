@@ -1,3 +1,3 @@
-# Etienne Valentines Day Ask 
+# Etienne Valentines 
 
-Simple valentines day ask for my girlfriend using Vite + React
+Simple valentines day GIF using Vite + React
